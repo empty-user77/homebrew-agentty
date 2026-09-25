@@ -1,8 +1,8 @@
 cask "agentty" do
-  version "0.1.21"
-  sha256 "53340703b62f581c7e0a448f9ce90ecbb043992387f91255db11d1f0c859eea9"
+  version "0.2.0"
+  sha256 "6a7a304c5d9257f2ef3a5b406bda96a21ce33f28ccbac93ae3de6017b26dc047"
 
-  url "https://github.com/empty-user77/agentty-releases/releases/download/v#{version}/Agentty-#{version}-arm64.zip"
+  url "https://github.com/empty-user77/Agentty/releases/download/v#{version}/Agentty-#{version}-arm64.zip"
   name "Agentty"
   desc "Terminal for AI coding agents"
   homepage "https://www.agentty.run/"
