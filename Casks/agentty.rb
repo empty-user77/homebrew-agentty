@@ -1,6 +1,6 @@
 cask "agentty" do
-  version "0.4.3"
-  sha256 "7641ca9fab11e2f7bbb2d0002d9221952ff9b598eb6080d01030422ee83edcbf"
+  version "0.4.7"
+  sha256 "affef941427e6c40eca33c79a0761db70b628722616cdaa7ecd60373e64c3853"
 
   url "https://github.com/empty-user77/Agentty/releases/download/v#{version}/Agentty-#{version}-arm64.zip"
   name "Agentty"
